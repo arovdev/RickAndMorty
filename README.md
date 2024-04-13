@@ -12,3 +12,7 @@ This is a full-featured iOS app showcasing the Rick and Morty API. The app is wr
 - Discover locations from the Rick and Morty universe.
 - Search functionality to find specific characters, episodes, or locations.
 - Unit tests to ensure code quality and functionality.
+
+## Links 
+- YouTube: https://www.youtube.com/watch?v=fTGA8cjbf5Y
+- API: https://rickandmortyapi.com/documentation/#get-all-characters
